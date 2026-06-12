@@ -1,9 +1,2 @@
-# DOWNLOADED VIDEOS LIST :
-
-----
-
-- 1 - ▶️ [I-had-to-DIG-to-survive-a-zombie-apocalypse!](https://github.com/GOGOLmaghz/yd_free/tree/main/videos/I-had-to-DIG-to-survive-a-zombie-apocalypse%21)
-- 2 - 🎞️ [بعد-از-6-ماه-برگشتیم-🥲-اونم-با-3-اتفاق-عجیب-و-باورنکردنی-!-تغییر-کردم](https://github.com/GOGOLmaghz/yd_free/tree/main/videos/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-6-%D9%85%D8%A7%D9%87-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA%DB%8C%D9%85-%F0%9F%A5%B2-%D8%A7%D9%88%D9%86%D9%85-%D8%A8%D8%A7-3-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%B9%D8%AC%DB%8C%D8%A8-%D9%88-%D8%A8%D8%A7%D9%88%D8%B1%D9%86%DA%A9%D8%B1%D8%AF%D9%86%DB%8C-%21-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%DA%A9%D8%B1%D8%AF%D9%85)
-- 3 - 🎦 [🌸-تانک-جدید-ژاپن-با-ریلود-4-ثانیه-!-｜-Type-90-(B)-｜-WarThunder-🔴](https://github.com/GOGOLmaghz/yd_free/tree/main/videos/%F0%9F%8C%B8-%D8%AA%D8%A7%D9%86%DA%A9-%D8%AC%D8%AF%DB%8C%D8%AF-%DA%98%D8%A7%D9%BE%D9%86-%D8%A8%D8%A7-%D8%B1%DB%8C%D9%84%D9%88%D8%AF-4-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-%21-%EF%BD%9C-Type-90-%28B%29-%EF%BD%9C-WarThunder-%F0%9F%94%B4)
-- 4 - ▶️ [💥-شکوه-اژدها-چینی-با-کیل-های-فراوان-｜-MBT-2000-｜-WarThunder-🔴](https://github.com/GOGOLmaghz/yd_free/tree/main/videos/%F0%9F%92%A5-%D8%B4%DA%A9%D9%88%D9%87-%D8%A7%DA%98%D8%AF%D9%87%D8%A7-%DA%86%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7-%DA%A9%DB%8C%D9%84-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D9%88%D8%A7%D9%86-%EF%BD%9C-MBT-2000-%EF%BD%9C-WarThunder-%F0%9F%94%B4)
-- 5 - 🎦 [🔥-پیرمرد-وارتاندر-برگشت-با-گیم-پلی-تانک-جدید-!-｜-Challenger-2-OES-｜-WarThunder-🔴](https://github.com/GOGOLmaghz/yd_free/tree/main/videos/%F0%9F%94%A5-%D9%BE%DB%8C%D8%B1%D9%85%D8%B1%D8%AF-%D9%88%D8%A7%D8%B1%D8%AA%D8%A7%D9%86%D8%AF%D8%B1-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA-%D8%A8%D8%A7-%DA%AF%DB%8C%D9%85-%D9%BE%D9%84%DB%8C-%D8%AA%D8%A7%D9%86%DA%A9-%D8%AC%D8%AF%DB%8C%D8%AF-%21-%EF%BD%9C-Challenger-2-OES-%EF%BD%9C-WarThunder-%F0%9F%94%B4)
+## خالی
+برای شروع به تب Actions رفته و از گردش‌کارهای سمت چپ استفاده کنید
